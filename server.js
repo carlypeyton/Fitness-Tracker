@@ -1,4 +1,4 @@
-//NPM dependencies
+//Require NPM packages and models
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
@@ -21,7 +21,7 @@ app.use(logger("dev"));
 
 //Mongoose connect
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/Workout',
+  process.env.MONGODB_URI || 'mongodb://localhost/workout',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
