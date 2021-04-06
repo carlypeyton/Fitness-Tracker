@@ -29,6 +29,9 @@ The user should be able to:
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 ```
 
+## Application Walkthrough
+  ![Application Walkthrough Gif](Demo.gif)
+
 ## Deployed Application
 This application is deployed on Heroku:
 *  https://infinite-spire-14205.herokuapp.com/
