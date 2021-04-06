@@ -31,6 +31,7 @@ The user should be able to:
 
 ## Application Walkthrough
   ![Application Walkthrough Gif](Demo.gif)
+  * https://drive.google.com/file/d/14UKIi9_mviVnqVQb0-cn-czMWp7lfzcT/view
 
 ## Deployed Application
 This application is deployed on Heroku:
