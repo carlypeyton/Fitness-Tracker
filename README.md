@@ -31,7 +31,7 @@ The user should be able to:
 
 ## Deployed Application
 This application is deployed on Heroku:
-*  https://infinite-spire-14205.herokuapp.com/stats
+*  https://infinite-spire-14205.herokuapp.com/
 
 ## Installation Instructions
 Install the following npm packages prior to deploying application:
